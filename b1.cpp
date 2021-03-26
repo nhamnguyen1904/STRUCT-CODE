@@ -13,7 +13,7 @@ PhanSo NhapPhanSo(PS &x)
 }
 PhanSo SoSanhPhanSo(PS a, PS b)
 {
-    if(a.TuSo == b.TuSo)
+    if(a.TuSo = b.TuSo)
     {
         if(a.MauSo < b.MauSo)
         {
